@@ -1,7 +1,11 @@
 # Misspoken's Token Gen
-**Website - https://misspokens-tokengen.glitch.me/**
+Generate endless Discord tokens.
 
-- Remember, these are UNCHECKED. So don't complain if not working!
-- Just a storage for my code
-- Don't be a skid and fork the project.
+## Website
+- Go to **https://misspokens-token.glitch.me/** to generate! (GitHub Pages doesn't show features.)
+
+## Info
+- Remember, these are generated, as in random strings!
+- This is just a storage for my code.
+- Don't skid this shit and say you made it.
 - DM me at Misspoken#1122 if it ain't working.
